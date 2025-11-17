@@ -37,7 +37,7 @@ O projeto busca simular uma gestão real de um sistema de estoque usando banco d
    - **Gráfico de linha:** entradas e saídas ao longo do tempo.  
    - **Gráfico de barra:** estoque atual por produto.  
    - (`Matplotlib`).
-   - 
+     
 ## 🛠 Linguagem e Bibliotecas Utilizadas
 
 - **Python 3.13**  
